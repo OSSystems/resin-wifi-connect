@@ -15,7 +15,7 @@ WiFi Connect is a utility for dynamically setting the WiFi configuration on a Li
 
 ***
 
-[**Download**][DOWNLOAD] | [**How it works**](#how-it-works) | [**How to use**](#how-to-use) | [**Support**](#support) | [**Roadmap**][MILESTONES]
+[**Download**][DOWNLOAD] | [**How it works**](#how-it-works) | [**Installation**](#installation) | [**Support**](#support) | [**Roadmap**][MILESTONES]
 
 [DOWNLOAD]: https://github.com/balena-io/wifi-connect/releases/latest
 [MILESTONES]: https://github.com/balena-io/wifi-connect/milestones
